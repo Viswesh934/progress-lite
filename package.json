@@ -1,0 +1,21 @@
+{
+  "name": "progress-lite",
+  "version": "1.0.0",
+  "description": "A lightweight progress bar library inspired by nprogress",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["progress", "loading-bar", "nprogress", "lightweight"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.2",
+    "vite": "^6.3.5"
+  }
+}

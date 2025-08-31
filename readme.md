@@ -87,7 +87,7 @@ You can override it:
 ---
 
 ## 🧪 Playground
-Try it live here 👉 [Progress Lite Playground](https://your-demo-link.vercel.app)
+Try it live here 👉 [Progress Lite Playground](https://progress-lite-27q4p8qty-visweshs-projects-41ca1c13.vercel.app/)
 
 ---
 
